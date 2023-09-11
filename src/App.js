@@ -14,6 +14,7 @@ import unitedTractorsLogo from './images/unitedTractorsLogo.png'
 import profile_picture from './images/profile_picture.png'
 
 function App() {
+  document.title = 'Portofolio Nelson Munthe'
   return (
     <main className=' bg-white px-10 md:px-20 lg:px-40'>
       <section className= "my-20">
